@@ -20,22 +20,6 @@ width = GetSystemMetrics(0)
 height = GetSystemMetrics(1)
 
 
-# def make_1080p():
-#     output.set(3, 1920)
-#     output.set(4, 1080)
-#
-# def make_720p():
-#     output.set(3, 1280)
-#     output.set(4, 720)
-#
-# def make_480p():
-#     output.set(3, 640)
-#     output.set(4, 480)
-#
-# def change_res(width, height):
-#     output.set(3, width)
-#     output.set(4, height)
-
 
 def recorder():
 
